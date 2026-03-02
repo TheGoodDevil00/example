@@ -1,11 +1,6 @@
-# Attendance Repository
+Hello World This is Good.
+today is Monday.
 
-Use this repository to mark your attendance.
-
-## Steps (with commands)
-
-### 1) Fork the repository
-Fork this repo to your GitHub account.
 
 ### 2) Clone your fork
 ```bash
